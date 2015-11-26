@@ -1,0 +1,202 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 52DB356F0C0E525A000305F6 /* Safari */;
+		activeTarget = 8D5B49AC048680CD000E48DA /* WebKitPluginStarter */;
+		breakpointsGroup = 525015990C0E516900271BE8 /* XCBreakpointsBucket */;
+		codeSenseManager = 52A382A70C0E076D0064AC29 /* Code sense */;
+		executables = (
+			52DB356F0C0E525A000305F6 /* Safari */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					400,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					692,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					354,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 202264992;
+			PBXWorkspaceStateSaveDate = 202264992;
+		};
+		perUserProjectItems = {
+			5250159F0C0E519900271BE8 /* PBXTextBookmark */ = 5250159F0C0E519900271BE8 /* PBXTextBookmark */;
+			52A382AE0C0E07C90064AC29 /* PBXTextBookmark */ = 52A382AE0C0E07C90064AC29 /* PBXTextBookmark */;
+			52A382B00C0E07C90064AC29 /* PBXTextBookmark */ = 52A382B00C0E07C90064AC29 /* PBXTextBookmark */;
+			52A382B10C0E07C90064AC29 /* PBXTextBookmark */ = 52A382B10C0E07C90064AC29 /* PBXTextBookmark */;
+			52DB357D0C0E5547000305F6 /* PBXTextBookmark */ = 52DB357D0C0E5547000305F6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 52A382A60C0E076D0064AC29 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	522610AF0BBB1416006AB685 /* PluginStarter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 1386}}";
+			sepNavSelRange = "{3371, 37}";
+			sepNavVisRect = "{{0, 947}, {726, 439}}";
+		};
+	};
+	522610B00BBB1416006AB685 /* PluginStarter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 1554}}";
+			sepNavSelRange = "{3390, 0}";
+			sepNavVisRect = "{{0, 1104}, {884, 438}}";
+		};
+	};
+	525015990C0E516900271BE8 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+		);
+	};
+	5250159F0C0E519900271BE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522610B00BBB1416006AB685 /* PluginStarter.m */;
+		name = "PluginStarter.m: plugInViewWithArguments:";
+		rLen = 0;
+		rLoc = 3390;
+		rType = 0;
+		vrLen = 803;
+		vrLoc = 2853;
+	};
+	52A382A60C0E076D0064AC29 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	52A382A70C0E076D0064AC29 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	52A382AE0C0E07C90064AC29 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522610AF0BBB1416006AB685 /* PluginStarter.h */;
+		name = "/* accessors for pluginArguments */";
+		rLen = 37;
+		rLoc = 3371;
+		rType = 0;
+		vrLen = 926;
+		vrLoc = 2573;
+	};
+	52A382B00C0E07C90064AC29 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522610AF0BBB1416006AB685 /* PluginStarter.h */;
+		name = "PluginStarter.h: 93";
+		rLen = 0;
+		rLoc = 3370;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 2549;
+	};
+	52A382B10C0E07C90064AC29 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522610B00BBB1416006AB685 /* PluginStarter.m */;
+		name = "PluginStarter.m: 85";
+		rLen = 0;
+		rLoc = 3004;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 2852;
+	};
+	52DB356F0C0E525A000305F6 /* Safari */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 52DB35700C0E525A000305F6 /* Safari.app */;
+		libgmallocEnabled = 0;
+		name = Safari;
+		sourceDirectories = (
+		);
+	};
+	52DB35700C0E525A000305F6 /* Safari.app */ = {
+		isa = PBXFileReference;
+		explicitFileType = wrapper.application;
+		name = Safari.app;
+		path = /Applications/Safari.app;
+		sourceTree = "<absolute>";
+	};
+	52DB357D0C0E5547000305F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522610B00BBB1416006AB685 /* PluginStarter.m */;
+		name = "PluginStarter.m: plugInViewWithArguments:";
+		rLen = 0;
+		rLoc = 3390;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 2852;
+	};
+	8D5B49AC048680CD000E48DA /* WebKitPluginStarter */ = {
+		activeExec = 0;
+	};
+}
